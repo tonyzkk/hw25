@@ -1,0 +1,818 @@
+Пол:1 http://us.archive.ubuntu.com/ubuntu bionic InRelease [242 kB]          
+Пол:2 http://ppa.launchpad.net/otto-kesselgulasch/gimp/ubuntu bionic InRelease [15,4 kB]
+Пол:3 http://archive.canonical.com/ubuntu bionic InRelease [10,2 kB]         
+Пол:4 http://ppa.launchpad.net/teejee2008/ppa/ubuntu bionic InRelease [15,4 kB]
+Пол:5 http://ppa.launchpad.net/otto-kesselgulasch/gimp/ubuntu bionic/main amd64 Packages [8 872 B]
+Пол:6 http://archive.canonical.com/ubuntu bionic/partner i386 Packages [2 320 B]
+Пол:7 http://us.archive.ubuntu.com/ubuntu bionic-security InRelease [88,7 kB]
+Пол:8 http://archive.canonical.com/ubuntu bionic/partner amd64 Packages [2 320 B]
+Пол:9 http://archive.canonical.com/ubuntu bionic/partner Translation-en [1 276 B]
+Пол:10 http://us.archive.ubuntu.com/ubuntu bionic-updates InRelease [88,7 kB]
+Пол:11 http://ppa.launchpad.net/otto-kesselgulasch/gimp/ubuntu bionic/main i386 Packages [8 892 B]
+Пол:12 http://ppa.launchpad.net/otto-kesselgulasch/gimp/ubuntu bionic/main Translation-en [2 792 B]
+Пол:13 http://us.archive.ubuntu.com/ubuntu bionic-backports InRelease [74,6 kB]
+Пол:14 http://ppa.launchpad.net/teejee2008/ppa/ubuntu bionic/main amd64 Packages [1 944 B]
+Пол:15 http://us.archive.ubuntu.com/ubuntu bionic/main amd64 Packages [1 019 kB]
+Пол:16 http://ppa.launchpad.net/teejee2008/ppa/ubuntu bionic/main i386 Packages [1 944 B]
+Пол:17 http://ppa.launchpad.net/teejee2008/ppa/ubuntu bionic/main Translation-en [872 B]
+Пол:18 http://repo.linuxliteos.com/linuxlite diamond InRelease [2 104 B]     
+Пол:19 http://us.archive.ubuntu.com/ubuntu bionic/main i386 Packages [1 007 kB]
+Пол:20 http://repo.linuxliteos.com/linuxlite diamond/main i386 Packages [7 999 B]
+Пол:21 http://us.archive.ubuntu.com/ubuntu bionic/main Translation-en [516 kB]
+Пол:22 http://repo.linuxliteos.com/linuxlite diamond/main amd64 Packages [14,7 kB]
+Пол:23 http://us.archive.ubuntu.com/ubuntu bionic/main Translation-ru [350 kB]
+Пол:24 http://us.archive.ubuntu.com/ubuntu bionic/restricted i386 Packages [9 156 B]
+Пол:25 http://us.archive.ubuntu.com/ubuntu bionic/restricted amd64 Packages [9 184 B]
+Пол:26 http://us.archive.ubuntu.com/ubuntu bionic/restricted Translation-en [3 584 B]
+Пол:27 http://us.archive.ubuntu.com/ubuntu bionic/restricted Translation-ru [2 524 B]
+Пол:28 http://us.archive.ubuntu.com/ubuntu bionic/universe i386 Packages [8 531 kB]
+Пол:29 http://us.archive.ubuntu.com/ubuntu bionic/universe amd64 Packages [8 570 kB]
+Пол:30 http://us.archive.ubuntu.com/ubuntu bionic/universe Translation-en [4 941 kB]
+Пол:31 http://us.archive.ubuntu.com/ubuntu bionic/universe Translation-ru [1 231 kB]
+Пол:32 http://us.archive.ubuntu.com/ubuntu bionic/multiverse amd64 Packages [151 kB]
+Пол:33 http://us.archive.ubuntu.com/ubuntu bionic/multiverse i386 Packages [144 kB]
+Пол:34 http://us.archive.ubuntu.com/ubuntu bionic/multiverse Translation-ru [79,7 kB]
+Пол:35 http://us.archive.ubuntu.com/ubuntu bionic/multiverse Translation-en [108 kB]
+Пол:36 http://us.archive.ubuntu.com/ubuntu bionic-security/main i386 Packages [265 kB]
+Пол:37 http://us.archive.ubuntu.com/ubuntu bionic-security/main amd64 Packages [353 kB]
+Пол:38 http://us.archive.ubuntu.com/ubuntu bionic-security/main Translation-en [125 kB]
+Пол:39 http://us.archive.ubuntu.com/ubuntu bionic-security/restricted amd64 Packages [4 296 B]
+Пол:40 http://us.archive.ubuntu.com/ubuntu bionic-security/restricted i386 Packages [4 280 B]
+Пол:41 http://us.archive.ubuntu.com/ubuntu bionic-security/restricted Translation-en [2 192 B]
+Пол:42 http://us.archive.ubuntu.com/ubuntu bionic-security/universe amd64 Packages [247 kB]
+Пол:43 http://us.archive.ubuntu.com/ubuntu bionic-security/universe i386 Packages [242 kB]
+Пол:44 http://us.archive.ubuntu.com/ubuntu bionic-security/universe Translation-en [140 kB]
+Пол:45 http://us.archive.ubuntu.com/ubuntu bionic-security/multiverse i386 Packages [4 152 B]
+Пол:46 http://us.archive.ubuntu.com/ubuntu bionic-security/multiverse amd64 Packages [4 004 B]
+Пол:47 http://us.archive.ubuntu.com/ubuntu bionic-security/multiverse Translation-en [2 060 B]
+Пол:48 http://us.archive.ubuntu.com/ubuntu bionic-updates/main i386 Packages [517 kB]
+Пол:49 http://us.archive.ubuntu.com/ubuntu bionic-updates/main amd64 Packages [618 kB]
+Пол:50 http://us.archive.ubuntu.com/ubuntu bionic-updates/main Translation-en [229 kB]
+Пол:51 http://us.archive.ubuntu.com/ubuntu bionic-updates/restricted i386 Packages [6 960 B]
+Пол:52 http://us.archive.ubuntu.com/ubuntu bionic-updates/restricted amd64 Packages [6 996 B]
+Пол:53 http://us.archive.ubuntu.com/ubuntu bionic-updates/restricted Translation-en [3 076 B]
+Пол:54 http://us.archive.ubuntu.com/ubuntu bionic-updates/universe amd64 Packages [937 kB]
+Пол:55 http://us.archive.ubuntu.com/ubuntu bionic-updates/universe i386 Packages [925 kB]
+Пол:56 http://us.archive.ubuntu.com/ubuntu bionic-updates/universe Translation-en [275 kB]
+Пол:57 http://us.archive.ubuntu.com/ubuntu bionic-updates/multiverse amd64 Packages [6 644 B]
+Пол:58 http://us.archive.ubuntu.com/ubuntu bionic-updates/multiverse i386 Packages [6 788 B]
+Пол:59 http://us.archive.ubuntu.com/ubuntu bionic-updates/multiverse Translation-en [3 556 B]
+Пол:60 http://us.archive.ubuntu.com/ubuntu bionic-backports/main i386 Packages [1 024 B]
+Пол:61 http://us.archive.ubuntu.com/ubuntu bionic-backports/main amd64 Packages [1 024 B]
+Пол:62 http://us.archive.ubuntu.com/ubuntu bionic-backports/main Translation-en [448 B]
+Пол:63 http://us.archive.ubuntu.com/ubuntu bionic-backports/universe i386 Packages [3 496 B]
+Пол:64 http://us.archive.ubuntu.com/ubuntu bionic-backports/universe amd64 Packages [3 496 B]
+Пол:65 http://us.archive.ubuntu.com/ubuntu bionic-backports/universe Translation-en [1 604 B]
+Получено 32,2 MB за 23с (1 422 kB/s)                                         
+Чтение списков пакетов… Готово
+Построение дерева зависимостей       
+Чтение информации о состоянии… Готово
+Может быть обновлено 364 пакета. Запустите «apt list --upgradable» для их показа.
+ linuxlite  ~  sudo apt install git
+Чтение списков пакетов… Готово
+Построение дерева зависимостей       
+Чтение информации о состоянии… Готово
+Будут установлены следующие дополнительные пакеты:
+  git-man liberror-perl
+Предлагаемые пакеты:
+  git-daemon-run | git-daemon-sysvinit git-doc git-el git-email git-gui gitk
+  gitweb git-cvs git-mediawiki git-svn
+Следующие НОВЫЕ пакеты будут установлены:
+  git git-man liberror-perl
+Обновлено 0 пакетов, установлено 3 новых пакетов, для удаления отмечено 0 пакетов, и 364 пакетов не обновлено.
+Необходимо скачать 4 733 kB архивов.
+После данной операции объём занятого дискового пространства возрастёт на 33,9 MB.
+Хотите продолжить? [Д/н] 
+Пол:1 http://us.archive.ubuntu.com/ubuntu bionic/main amd64 liberror-perl all 0.17025-1 [22,8 kB]
+Пол:2 http://us.archive.ubuntu.com/ubuntu bionic-security/main amd64 git-man all 1:2.17.1-1ubuntu0.4 [803 kB]
+Пол:3 http://us.archive.ubuntu.com/ubuntu bionic-security/main amd64 git amd64 1:2.17.1-1ubuntu0.4 [3 907 kB]
+Получено 4 733 kB за 12с (389 kB/s)                                          
+Выбор ранее не выбранного пакета liberror-perl.
+(Чтение базы данных … на данный момент установлено 253778 файлов и каталогов.)
+Подготовка к распаковке …/liberror-perl_0.17025-1_all.deb …
+Распаковывается liberror-perl (0.17025-1) …
+Выбор ранее не выбранного пакета git-man.
+Подготовка к распаковке …/git-man_1%3a2.17.1-1ubuntu0.4_all.deb …
+Распаковывается git-man (1:2.17.1-1ubuntu0.4) …
+Выбор ранее не выбранного пакета git.
+Подготовка к распаковке …/git_1%3a2.17.1-1ubuntu0.4_amd64.deb …
+Распаковывается git (1:2.17.1-1ubuntu0.4) …
+Настраивается пакет git-man (1:2.17.1-1ubuntu0.4) …
+Настраивается пакет liberror-perl (0.17025-1) …
+Обрабатываются триггеры для man-db (2.8.3-2ubuntu0.1) …
+
+Настраивается пакет git (1:2.17.1-1ubuntu0.4) …
+ linuxlite  ~  mkdir newpp && cd newpp
+ linuxlite  ~  newpp  git init
+Initialized empty Git repository in /home/linuxlite/newpp/.git/
+ linuxlite  ~  newpp  git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+ linuxlite  ~  newpp  nano file.txt
+ linuxlite  ~  newpp  git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	file.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+ linuxlite  ~  newpp  git config --global user.name "Zuckova Tatyana"
+ linuxlite  ~  newpp  git config --global user.email "zt@mail.ru"
+ linuxlite  ~  newpp  git add file.txt
+ linuxlite  ~  newpp  git commit -m"Add file and print first comm"
+[master (root-commit) 1178e0f] Add file and print first comm
+ 1 file changed, 1 insertion(+)
+ create mode 100644 file.txt
+ linuxlite  ~  newpp  git status
+On branch master
+nothing to commit, working tree clean
+ linuxlite  ~  newpp  git log
+commit 1178e0f40c2e95c4dacd766ce176dfd4dce6477f (HEAD -> master)
+Author: Zuckova Tatyana <zt@mail.ru>
+Date:   Sat May 25 01:08:51 2019 +0500
+
+    Add file and print first comm
+ linuxlite  ~  newpp  nano file.txt
+ linuxlite  ~  newpp  git add file.txt
+ linuxlite  ~  newpp  git commit
+[master c2bafe0] print sec com
+ 1 file changed, 1 insertion(+)
+ linuxlite  ~  newpp  git log --oneline --graph
+* c2bafe0 (HEAD -> master) print sec com
+* 1178e0f Add file and print first comm
+ linuxlite  ~  newpp  nano file.txt
+ linuxlite  ~  newpp  git add file.txt
+ linuxlite  ~  newpp  git commit
+[master f6cdf1c] 3 comm
+ 1 file changed, 1 insertion(+)
+ linuxlite  ~  newpp  ^C
+ linuxlite  ~  newpp  git branch feature-a
+ linuxlite  ~  newpp  git branch
+  feature-a
+* master
+ linuxlite  ~  newpp  git checkout feature-a
+Switched to branch 'feature-a'
+ linuxlite  ~  newpp  git branch
+* feature-a
+  master
+ linuxlite  ~  newpp  nano file.txt
+ linuxlite  ~  newpp  git commit
+On branch feature-a
+Changes not staged for commit:
+	modified:   file.txt
+
+no changes added to commit
+ linuxlite  ~  newpp  git add file.txt
+ linuxlite  ~  newpp  git commit
+[feature-a 2604784] 4 feat a comm
+ 1 file changed, 1 insertion(+)
+ linuxlite  ~  newpp  git log --oneline --graph --all
+* 2604784 (HEAD -> feature-a) 4 feat a comm
+* f6cdf1c (master) 3 comm
+* c2bafe0 print sec com
+* 1178e0f Add file and print first comm
+ linuxlite  ~  newpp  git checkout master
+Switched to branch 'master'
+ linuxlite  ~  newpp  git branch feature-b
+ linuxlite  ~  newpp  git checkout feature-b
+Switched to branch 'feature-b'
+ linuxlite  ~  newpp  nano file.txt
+ linuxlite  ~  newpp  git add file.txt
+ linuxlite  ~  newpp  git commit
+[feature-b 40e1603] feat b comm
+ 1 file changed, 1 insertion(+)
+ linuxlite  ~  newpp  git branch
+  feature-a
+* feature-b
+  master
+ linuxlite  ~  newpp  git log --oneline --graph --all
+* 40e1603 (HEAD -> feature-b) feat b comm
+| * 2604784 (feature-a) 4 feat a comm
+|/  
+* f6cdf1c (master) 3 comm
+* c2bafe0 print sec com
+* 1178e0f Add file and print first comm
+ linuxlite  ~  newpp  nano file.txt
+ linuxlite  ~  newpp  git add file.txt
+ linuxlite  ~  newpp  git commit
+[feature-b 0c75893] 2 in b
+ 1 file changed, 1 insertion(+)
+ linuxlite  ~  newpp  git merge feature-a
+Auto-merging file.txt
+CONFLICT (content): Merge conflict in file.txt
+Automatic merge failed; fix conflicts and then commit the result.
+ linuxlite  ~  newpp  nano file.txt
+ linuxlite  ~  newpp  git add file.txt
+ linuxlite  ~  newpp  git commit
+[feature-b 25a701c] Merge branch 'feature-a' into feature-b
+ linuxlite  ~  newpp  git log --oneline --graph --all 
+*   25a701c (HEAD -> feature-b) Merge branch 'feature-a' into feature-b
+|\  
+| * 2604784 (feature-a) 4 feat a comm
+* | 0c75893 2 in b
+* | 40e1603 feat b comm
+|/  
+* f6cdf1c (master) 3 comm
+* c2bafe0 print sec com
+* 1178e0f Add file and print first comm
+ linuxlite  ~  newpp  Welcome to Linux Lite 4.4 linuxlite
+ [7 999 B]
+Пол:21 http://us.archive.ubuntu.com/ubuntu bionic/main Translation-en [516 kB]
+Пол:22 http://repo.linuxliteos.com/linuxlite diamond/main amd64 Packages [14,7 kB]
+Пол:23 http://us.archive.ubuntu.com/ubuntu bionic/main Translation-ru [350 kB]
+Пол:24 http://us.archive.ubuntu.com/ubuntu bionic/restricted i386 Packages [9 156 B]
+Пол:25 http://us.archive.ubuntu.com/ubuntu bionic/restricted amd64 Packages [9 184 B]
+Пол:26 http://us.archive.ubuntu.com/ubuntu bionic/restricted Translation-en [3 584 B]
+Пол:27 http://us.archive.ubuntu.com/ubuntu bionic/restricted Translation-ru [2 524 B]
+Пол:28 http://us.archive.ubuntu.com/ubuntu bionic/universe i386 Packages [8 531 kB]
+Пол:29 http://us.archive.ubuntu.com/ubuntu bionic/universe amd64 Packages [8 570 kB]
+Пол:30 http://us.archive.ubuntu.com/ubuntu bionic/universe Translation-en [4 941 kB]
+Пол:31 http://us.archive.ubuntu.com/ubuntu bionic/universe Translation-ru [1 231 kB]
+Пол:32 http://us.archive.ubuntu.com/ubuntu bionic/multiverse amd64 Packages [151 kB]
+Пол:33 http://us.archive.ubuntu.com/ubuntu bionic/multiverse i386 Packages [144 kB]
+Пол:34 http://us.archive.ubuntu.com/ubuntu bionic/multiverse Translation-ru [79,7 kB]
+Пол:35 http://us.archive.ubuntu.com/ubuntu bionic/multiverse Translation-en [108 kB]
+Пол:36 http://us.archive.ubuntu.com/ubuntu bionic-security/main i386 Packages [265 kB]
+Пол:37 http://us.archive.ubuntu.com/ubuntu bionic-security/main amd64 Packages [353 kB]
+Пол:38 http://us.archive.ubuntu.com/ubuntu bionic-security/main Translation-en [125 kB]
+Пол:39 http://us.archive.ubuntu.com/ubuntu bionic-security/restricted amd64 Packages [4 296 B]
+Пол:40 http://us.archive.ubuntu.com/ubuntu bionic-security/restricted i386 Packages [4 280 B]
+Пол:41 http://us.archive.ubuntu.com/ubuntu bionic-security/restricted Translation-en [2 192 B]
+Пол:42 http://us.archive.ubuntu.com/ubuntu bionic-security/universe amd64 Packages [247 kB]
+Пол:43 http://us.archive.ubuntu.com/ubuntu bionic-security/universe i386 PackWelcome: command not found
+ linuxlite  ~  newpp   
+ linuxlite  ~  newpp  Суббота 25 мая 2019, 00:55:23
+Суббота: command not found
+ linuxlite  ~  newpp  Memory Usage: 351/985MB (35.63%)
+bash: syntax error near unexpected token `('
+ linuxlite  ~  newpp  Disk Usage: 5/9GB (60%)
+bash: syntax error near unexpected token `('
+ linuxlite  ~  newpp  Support - https://www.linuxliteos.com/forums/ (Right click, Open Link)
+bash: syntax error near unexpected token `('
+ linuxlite  ~  newpp   
+ linuxlite  ~  newpp   linuxlite  ~  sudo apt update
+ linuxlite  ~  sudo: command not found
+ linuxlite  ~  newpp  [sudo] password for linuxlite: 
+[sudo]: command not found
+ linuxlite  ~  newpp  Пол:1 http://us.archive.ubuntu.com/ubuntu bionic InRelease [242 kB]          
+Пол:1: command not found
+ linuxlite  ~  newpp  Пол:2 http://ppa.launchpad.net/otto-kesselgulasch/gimp/ubuntu bionic InRelease [15,4 kB]
+Пол:2: command not found
+ linuxlite  ~  newpp  Пол:3 http://archive.canonical.com/ubuntu bionic InRelease [10,2 kB]         
+Пол:3: command not found
+ linuxlite  ~  newpp  Пол:4 http://ppa.launchpad.net/teejee2008/ppa/ubuntu bionic InRelease [15,4 kB]
+Пол:4: command not found
+ linuxlite  ~  newpp  Пол:5 http://ppa.launchpad.net/otto-kesselgulasch/gimp/ubuntu bionic/main amd64 Packages [8 872 B]
+Пол:5: command not found
+ linuxlite  ~  newpp  Пол:6 http://archive.canonical.com/ubuntu bionic/partner i386 Packages [2 320 B]
+Пол:6: command not found
+ linuxlite  ~  newpp  Пол:7 http://us.archive.ubuntu.com/ubuntu bionic-security InRelease [88,7 kB]
+Пол:7: command not found
+ linuxlite  ~  newpp  Пол:8 http://archive.canonical.com/ubuntu bionic/partner amd64 Packages [2 320 B]
+Пол:8: command not found
+ linuxlite  ~  newpp  Пол:9 http://archive.canonical.com/ubuntu bionic/partner Translation-en [1 276 B]
+Пол:9: command not found
+ linuxlite  ~  newpp  Пол:10 http://us.archive.ubuntu.com/ubuntu bionic-updates InRelease [88,7 kB]
+Пол:10: command not found
+ linuxlite  ~  newpp  Пол:11 http://ppa.launchpad.net/otto-kesselgulasch/gimp/ubuntu bionic/main i386 Packages [8 892 B]
+Пол:11: command not found
+ linuxlite  ~  newpp  Пол:12 http://ppa.launchpad.net/otto-kesselgulasch/gimp/ubuntu bionic/main Translation-en [2 792 B]
+Пол:12: command not found
+ linuxlite  ~  newpp  Пол:13 http://us.archive.ubuntu.com/ubuntu bionic-backports InRelease [74,6 kB]
+Пол:13: command not found
+ linuxlite  ~  newpp  Пол:14 http://ppa.launchpad.net/teejee2008/ppa/ubuntu bionic/main amd64 Packages [1 944 B]
+Пол:14: command not found
+ linuxlite  ~  newpp  Пол:15 http://us.archive.ubuntu.com/ubuntu bionic/main amd64 Packages [1 019 kB]
+Пол:15: command not found
+ linuxlite  ~  newpp  Пол:16 http://ppa.launchpad.net/teejee2008/ppa/ubuntu bionic/main i386 Packages [1 944 B]
+Пол:16: command not found
+ linuxlite  ~  newpp  Пол:17 http://ppa.launchpad.net/teejee2008/ppa/ubuntu bionic/main Translation-en [872 B]
+Пол:17: command not found
+ linuxlite  ~  newpp  Пол:18 http://repo.linuxliteos.com/linuxlite diamond InRelease [2 104 B]     
+Пол:18: command not found
+ linuxlite  ~  newpp  Пол:19 http://us.archive.ubuntu.com/ubuntu bionic/main i386 Packages [1 007 kB]
+Пол:19: command not found
+ linuxlite  ~  newpp  Пол:20 http://repo.linuxliteos.com/linuxlite diamond/main i386 Packages [7 999 B]
+Пол:20: command not found
+ linuxlite  ~  newpp  Пол:21 http://us.archive.ubuntu.com/ubuntu bionic/main Translation-en [516 kB]
+Пол:21: command not found
+ linuxlite  ~  newpp  Пол:22 http://repo.linuxliteos.com/linuxlite diamond/main amd64 Packages [14,7 kB]
+Пол:22: command not found
+ linuxlite  ~  newpp  Пол:23 http://us.archive.ubuntu.com/ubuntu bionic/main Translation-ru [350 kB]
+Пол:23: command not found
+ linuxlite  ~  newpp  Пол:24 http://us.archive.ubuntu.com/ubuntu bionic/restricted i386 Packages [9 156 B]
+Пол:24: command not found
+ linuxlite  ~  newpp  Пол:25 http://us.archive.ubuntu.com/ubuntu bionic/restricted amd64 Packages [9 184 B]
+Пол:25: command not found
+ linuxlite  ~  newpp  Пол:26 http://us.archive.ubuntu.com/ubuntu bionic/restricted Translation-en [3 584 B]
+Пол:26: command not found
+ linuxlite  ~  newpp  Пол:27 http://us.archive.ubuntu.com/ubuntu bionic/restricted Translation-ru [2 524 B]
+Пол:27: command not found
+ linuxlite  ~  newpp  Пол:28 http://us.archive.ubuntu.com/ubuntu bionic/universe i386 Packages [8 531 kB]
+Пол:28: command not found
+ linuxlite  ~  newpp  Пол:29 http://us.archive.ubuntu.com/ubuntu bionic/universe amd64 Packages [8 570 kB]
+Пол:29: command not found
+ linuxlite  ~  newpp  Пол:30 http://us.archive.ubuntu.com/ubuntu bionic/universe Translation-en [4 941 kB]
+Пол:30: command not found
+ linuxlite  ~  newpp  Пол:31 http://us.archive.ubuntu.com/ubuntu bionic/universe Translation-ru [1 231 kB]
+Пол:31: command not found
+ linuxlite  ~  newpp  Пол:32 http://us.archive.ubuntu.com/ubuntu bionic/multiverse amd64 Packages [151 kB]
+Пол:32: command not found
+ linuxlite  ~  newpp  Пол:33 http://us.archive.ubuntu.com/ubuntu bionic/multiverse i386 Packages [144 kB]
+Пол:33: command not found
+ linuxlite  ~  newpp  Пол:34 http://us.archive.ubuntu.com/ubuntu bionic/multiverse Translation-ru [79,7 kB]
+Пол:34: command not found
+ linuxlite  ~  newpp  Пол:35 http://us.archive.ubuntu.com/ubuntu bionic/multiverse Translation-en [108 kB]
+Пол:35: command not found
+ linuxlite  ~  newpp  Пол:36 http://us.archive.ubuntu.com/ubuntu bionic-security/main i386 Packages [265 kB]
+Пол:36: command not found
+ linuxlite  ~  newpp  Пол:37 http://us.archive.ubuntu.com/ubuntu bionic-security/main amd64 Packages [353 kB]
+Пол:37: command not found
+ linuxlite  ~  newpp  Пол:38 http://us.archive.ubuntu.com/ubuntu bionic-security/main Translation-en [125 kB]
+Пол:38: command not found
+ linuxlite  ~  newpp  Пол:39 http://us.archive.ubuntu.com/ubuntu bionic-security/restricted amd64 Packages [4 296 B]
+Пол:39: command not found
+ linuxlite  ~  newpp  Пол:40 http://us.archive.ubuntu.com/ubuntu bionic-security/restricted i386 Packages [4 280 B]
+Пол:40: command not found
+ linuxlite  ~  newpp  Пол:41 http://us.archive.ubuntu.com/ubuntu bionic-security/restricted Translation-en [2 192 B]
+Пол:41: command not found
+ linuxlite  ~  newpp  Пол:42 http://us.archive.ubuntu.com/ubuntu bionic-security/universe amd64 Packages [247 kB]
+Пол:42: command not found
+ linuxlite  ~  newpp  Пол:43 http://us.archive.ubuntu.com/ubuntu bionic-security/universe i386 Packages [242 kB]
+Пол:43: command not found
+ linuxlite  ~  newpp  Пол:44 http://us.archive.ubuntu.com/ubuntu bionic-security/universe Translation-en [140 kB]
+Пол:44: command not found
+ linuxlite  ~  newpp  Пол:45 http://us.archive.ubuntu.com/ubuntu bionic-security/multiverse i386 Packages [4 152 B]
+Пол:45: command not found
+ linuxlite  ~  newpp  Пол:46 http://us.archive.ubuntu.com/ubuntu bionic-security/multiverse amd64 Packages [4 004 B]
+Пол:46: command not found
+ linuxlite  ~  newpp  Пол:47 http://us.archive.ubuntu.com/ubuntu bionic-security/multiverse Translation-en [2 060 B]
+Пол:47: command not found
+ linuxlite  ~  newpp  Пол:48 http://us.archive.ubuntu.com/ubuntu bionic-updates/main i386 Packages [517 kB]
+Пол:48: command not found
+ linuxlite  ~  newpp  Пол:49 http://us.archive.ubuntu.com/ubuntu bionic-updates/main amd64 Packages [618 kB]
+Пол:49: command not found
+ linuxlite  ~  newpp  Пол:50 http://us.archive.ubuntu.com/ubuntu bionic-updates/main Translation-en [229 kB]
+Пол:50: command not found
+ linuxlite  ~  newpp  Пол:51 http://us.archive.ubuntu.com/ubuntu bionic-updates/restricted i386 Packages [6 960 B]
+Пол:51: command not found
+ linuxlite  ~  newpp  Пол:52 http://us.archive.ubuntu.com/ubuntu bionic-updates/restricted amd64 Packages [6 996 B]
+Пол:52: command not found
+ linuxlite  ~  newpp  Пол:53 http://us.archive.ubuntu.com/ubuntu bionic-updates/restricted Translation-en [3 076 B]
+Пол:53: command not found
+ linuxlite  ~  newpp  Пол:54 http://us.archive.ubuntu.com/ubuntu bionic-updates/universe amd64 Packages [937 kB]
+Пол:54: command not found
+ linuxlite  ~  newpp  Пол:55 http://us.archive.ubuntu.com/ubuntu bionic-updates/universe i386 Packages [925 kB]
+Пол:55: command not found
+ linuxlite  ~  newpp  Пол:56 http://us.archive.ubuntu.com/ubuntu bionic-updates/universe Translation-en [275 kB]
+Пол:56: command not found
+ linuxlite  ~  newpp  Пол:57 http://us.archive.ubuntu.com/ubuntu bionic-updates/multiverse amd64 Packages [6 644 B]
+Пол:57: command not found
+ linuxlite  ~  newpp  Пол:58 http://us.archive.ubuntu.com/ubuntu bionic-updates/multiverse i386 Packages [6 788 B]
+Пол:58: command not found
+ linuxlite  ~  newpp  Пол:59 http://us.archive.ubuntu.com/ubuntu bionic-updates/multiverse Translation-en [3 556 B]
+Пол:59: command not found
+ linuxlite  ~  newpp  Пол:60 http://us.archive.ubuntu.com/ubuntu bionic-backports/main i386 Packages [1 024 B]
+Пол:60: command not found
+ linuxlite  ~  newpp  Пол:61 http://us.archive.ubuntu.com/ubuntu bionic-backports/main amd64 Packages [1 024 B]
+Пол:61: command not found
+ linuxlite  ~  newpp  Пол:62 http://us.archive.ubuntu.com/ubuntu bionic-backports/main Translation-en [448 B]
+Пол:62: command not found
+ linuxlite  ~  newpp  Пол:63 http://us.archive.ubuntu.com/ubuntu bionic-backports/universe i386 Packages [3 496 B]
+Пол:63: command not found
+ linuxlite  ~  newpp  Пол:64 http://us.archive.ubuntu.com/ubuntu bionic-backports/universe amd64 Packages [3 496 B]
+Пол:64: command not found
+ linuxlite  ~  newpp  Пол:65 http://us.archive.ubuntu.com/ubuntu bionic-backports/universe Translation-en [1 604 B]
+Пол:65: command not found
+ linuxlite  ~  newpp  Получено 32,2 MB за 23с (1 422 kB/s)                                         
+bash: syntax error near unexpected token `('
+ linuxlite  ~  newpp  Чтение списков пакетов… Готово
+Чтение: command not found
+ linuxlite  ~  newpp  Построение дерева зависимостей       
+Построение: command not found
+ linuxlite  ~  newpp  Чтение информации о состоянии… Готово
+Чтение: command not found
+ linuxlite  ~  newpp  Может быть обновлено 364 пакета. Запустите «apt list --upgradable» для их показа.
+Может: command not found
+ linuxlite  ~  newpp   linuxlite  ~  sudo apt install git
+ linuxlite  ~  sudo: command not found
+ linuxlite  ~  newpp  Чтение списков пакетов… Готово
+Чтение: command not found
+ linuxlite  ~  newpp  Построение дерева зависимостей       
+Построение: command not found
+ linuxlite  ~  newpp  Чтение информации о состоянии… Готово
+Чтение: command not found
+ linuxlite  ~  newpp  Будут установлены следующие дополнительные пакеты:
+Будут: command not found
+ linuxlite  ~  newpp    git-man liberror-perl
+git-man: command not found
+ linuxlite  ~  newpp  Предлагаемые пакеты:
+Предлагаемые: command not found
+ linuxlite  ~  newpp    git-daemon-run | git-daemon-sysvinit git-doc git-el git-email git-gui gitk
+git-daemon-run: command not found
+git-daemon-sysvinit: command not found
+ linuxlite  ~  newpp    gitweb git-cvs git-mediawiki git-svn
+
+Command 'gitweb' not found, did you mean:
+
+  command 'getweb' from deb printer-driver-foo2zjs-common
+
+Try: sudo apt install <deb name>
+
+ linuxlite  ~  newpp  Следующие НОВЫЕ пакеты будут установлены:
+Следующие: command not found
+ linuxlite  ~  newpp    git git-man liberror-perl
+git: 'git-man' is not a git command. See 'git --help'.
+ linuxlite  ~  newpp  Обновлено 0 пакетов, установлено 3 новых пакетов, для удаления отмечено 0 пакетов, и 364 пакетов не обновлено.
+Обновлено: command not found
+ linuxlite  ~  newpp  Необходимо скачать 4 733 kB архивов.
+Необходимо: command not found
+ linuxlite  ~  newpp  После данной операции объём занятого дискового пространства возрастёт на 33,9 MB.
+После: command not found
+ linuxlite  ~  newpp  Хотите продолжить? [Д/н] 
+Хотите: command not found
+ linuxlite  ~  newpp  Пол:1 http://us.archive.ubuntu.com/ubuntu bionic/main amd64 liberror-perl all 0.17025-1 [22,8 kB]
+Пол:1: command not found
+ linuxlite  ~  newpp  Пол:2 http://us.archive.ubuntu.com/ubuntu bionic-security/main amd64 git-man all 1:2.17.1-1ubuntu0.4 [803 kB]
+Пол:2: command not found
+ linuxlite  ~  newpp  Пол:3 http://us.archive.ubuntu.com/ubuntu bionic-security/main amd64 git amd64 1:2.17.1-1ubuntu0.4 [3 907 kB]
+Пол:3: command not found
+ linuxlite  ~  newpp  Получено 4 733 kB за 12с (389 kB/s)                                          
+bash: syntax error near unexpected token `('
+ linuxlite  ~  newpp  Выбор ранее не выбранного пакета liberror-perl.
+Выбор: command not found
+ linuxlite  ~  newpp  (Чтение базы данных … на данный момент установлено 253778 файлов и каталогов.)
+Чтение: command not found
+ linuxlite  ~  newpp  Подготовка к распаковке …/liberror-perl_0.17025-1_all.deb …
+Подготовка: command not found
+ linuxlite  ~  newpp  Распаковывается liberror-perl (0.17025-1) …
+bash: syntax error near unexpected token `('
+ linuxlite  ~  newpp  Выбор ранее не выбранного пакета git-man.
+Выбор: command not found
+ linuxlite  ~  newpp  Подготовка к распаковке …/git-man_1%3a2.17.1-1ubuntu0.4_all.deb …
+Подготовка: command not found
+ linuxlite  ~  newpp  Распаковывается git-man (1:2.17.1-1ubuntu0.4) …
+bash: syntax error near unexpected token `('
+ linuxlite  ~  newpp  Выбор ранее не выбранного пакета git.
+Выбор: command not found
+ linuxlite  ~  newpp  Подготовка к распаковке …/git_1%3a2.17.1-1ubuntu0.4_amd64.deb …
+Подготовка: command not found
+ linuxlite  ~  newpp  Распаковывается git (1:2.17.1-1ubuntu0.4) …
+bash: syntax error near unexpected token `('
+ linuxlite  ~  newpp  Настраивается пакет git-man (1:2.17.1-1ubuntu0.4) …
+bash: syntax error near unexpected token `('
+ linuxlite  ~  newpp  Настраивается пакет liberror-perl (0.17025-1) …
+bash: syntax error near unexpected token `('
+ linuxlite  ~  newpp  Обрабатываются триггеры для man-db (2.8.3-2ubuntu0.1) …
+bash: syntax error near unexpected token `('
+ linuxlite  ~  newpp  
+ linuxlite  ~  newpp  Настраивается пакет git (1:2.17.1-1ubuntu0.4) …
+bash: syntax error near unexpected token `('
+ linuxlite  ~  newpp   linuxlite  ~  mkdir newpp && cd newpp
+ linuxlite  ~  mkdir: command not found
+ linuxlite  ~  newpp   linuxlite  ~  newpp  git init
+ linuxlite  ~  newpp  git: command not found
+ linuxlite  ~  newpp  Initialized empty Git repository in /home/linuxlite/newpp/.git/
+Initialized: command not found
+ linuxlite  ~  newpp   linuxlite  ~  newpp  git status
+ linuxlite  ~  newpp  git: command not found
+ linuxlite  ~  newpp  On branch master
+On: command not found
+ linuxlite  ~  newpp  
+ linuxlite  ~  newpp  No commits yet
+No: command not found
+ linuxlite  ~  newpp  
+ linuxlite  ~  newpp  nothing to commit (create/copy files and use "git add" to track)
+bash: syntax error near unexpected token `('
+ linuxlite  ~  newpp   linuxlite  ~  newpp  nano file.txt
+ linuxlite  ~  newpp  nano: command not found
+ linuxlite  ~  newpp   linuxlite  ~  newpp  git status
+ linuxlite  ~  newpp  git: command not found
+ linuxlite  ~  newpp  On branch master
+On: command not found
+ linuxlite  ~  newpp  
+ linuxlite  ~  newpp  No commits yet
+No: command not found
+ linuxlite  ~  newpp  
+ linuxlite  ~  newpp  Untracked files:
+Untracked: command not found
+ linuxlite  ~  newpp    (use "git add <file>..." to include in what will be committed)
+
+Command 'use' not found, did you mean:
+
+  command 'nse' from deb ns2
+  command 'muse' from deb muse
+  command 'ase' from deb ase
+  command 'fuse' from deb fuse-emulator-gtk
+  command 'fuse' from deb fuse-emulator-sdl
+
+Try: sudo apt install <deb name>
+
+ linuxlite  ~  newpp  
+ linuxlite  ~  newpp  file.txt
+file.txt: command not found
+ linuxlite  ~  newpp  
+ linuxlite  ~  newpp  nothing added to commit but untracked files present (use "git add" to track)
+bash: syntax error near unexpected token `('
+ linuxlite  ~  newpp   linuxlite  ~  newpp  git config --global user.name "Zuckova Tatyana"
+ linuxlite  ~  newpp  git: command not found
+ linuxlite  ~  newpp   linuxlite  ~  newpp  git config --global user.email "zt@mail.ru"
+ linuxlite  ~  newpp  git: command not found
+ linuxlite  ~  newpp   linuxlite  ~  newpp  git add file.txt
+ linuxlite  ~  newpp  git: command not found
+ linuxlite  ~  newpp   linuxlite  ~  newpp  git commit -m"Add file and print first comm"
+ linuxlite  ~  newpp  git: command not found
+ linuxlite  ~  newpp  [master (root-commit) 1178e0f] Add file and print first comm
+bash: syntax error near unexpected token `root-commit'
+ linuxlite  ~  newpp   1 file changed, 1 insertion(+)
+bash: syntax error near unexpected token `('
+ linuxlite  ~  newpp   create mode 100644 file.txt
+
+Command 'create' not found, did you mean:
+
+  command 'pcreate' from deb pbuilder-scripts
+  command 'pcreate' from deb python-pyramid
+
+Try: sudo apt install <deb name>
+
+ linuxlite  ~  newpp   linuxlite  ~  newpp  git status
+ linuxlite  ~  newpp  git: command not found
+ linuxlite  ~  newpp  On branch master
+On: command not found
+ linuxlite  ~  newpp  nothing to commit, working tree clean
+nothing: command not found
+ linuxlite  ~  newpp   linuxlite  ~  newpp  git log
+ linuxlite  ~  newpp  git: command not found
+ linuxlite  ~  newpp  commit 1178e0f40c2e95c4dacd766ce176dfd4dce6477f (HEAD -> master)
+bash: syntax error near unexpected token `('
+ linuxlite  ~  newpp  Author: Zuckova Tatyana <zt@mail.ru>
+bash: syntax error near unexpected token `newline'
+ linuxlite  ~  newpp  Date:   Sat May 25 01:08:51 2019 +0500
+Date:: command not found
+ linuxlite  ~  newpp  
+ linuxlite  ~  newpp      Add file and print first comm
+
+Command 'Add' not found, did you mean:
+
+  command 'dd' from deb coreutils
+  command 'mAdd' from deb montage
+  command 'pdd' from deb pdd
+  command 'ddd' from deb ddd
+  command 'ldd' from deb libc-bin
+  command 'tdd' from deb devtodo
+
+Try: sudo apt install <deb name>
+
+ linuxlite  ~  newpp   linuxlite  ~  newpp  nano file.txt
+ linuxlite  ~  newpp  nano: command not found
+ linuxlite  ~  newpp   linuxlite  ~  newpp  git add file.txt
+ linuxlite  ~  newpp  git: command not found
+ linuxlite  ~  newpp   linuxlite  ~  newpp  git commit
+ linuxlite  ~  newpp  git: command not found
+ linuxlite  ~  newpp  [master c2bafe0] print sec com
+[master: command not found
+ linuxlite  ~  newpp   1 file changed, 1 insertion(+)
+bash: syntax error near unexpected token `('
+ linuxlite  ~  newpp   linuxlite  ~  newpp  git log --oneline --graph
+ linuxlite  ~  newpp  git: command not found
+ linuxlite  ~  newpp  * c2bafe0 (HEAD -> master) print sec com
+bash: syntax error near unexpected token `('
+ linuxlite  ~  newpp  * 1178e0f Add file and print first comm
+file.txt: command not found
+ linuxlite  ~  newpp   linuxlite  ~  newpp  nano file.txt
+ linuxlite  ~  newpp  nano: command not found
+ linuxlite  ~  newpp   linuxlite  ~  newpp  git add file.txt
+ linuxlite  ~  newpp  git: command not found
+ linuxlite  ~  newpp   linuxlite  ~  newpp  git commit
+ linuxlite  ~  newpp  git: command not found
+ linuxlite  ~  newpp  [master f6cdf1c] 3 comm
+[master: command not found
+ linuxlite  ~  newpp   1 file changed, 1 insertion(+)
+bash: syntax error near unexpected token `('
+ linuxlite  ~  newpp   linuxlite  ~  newpp  ^C
+ linuxlite  ~  newpp  ^C: command not found
+ linuxlite  ~  newpp   linuxlite  ~  newpp  git branch feature-a
+ linuxlite  ~  newpp  git: command not found
+ linuxlite  ~  newpp   linuxlite  ~  newpp  git branch
+ linuxlite  ~  newpp  git: command not found
+ linuxlite  ~  newpp    feature-a
+feature-a: command not found
+ linuxlite  ~  newpp  * master
+file.txt: command not found
+ linuxlite  ~  newpp   linuxlite  ~  newpp  git checkout feature-a
+ linuxlite  ~  newpp  git: command not found
+ linuxlite  ~  newpp  Switched to branch 'feature-a'
+Switched: command not found
+ linuxlite  ~  newpp   linuxlite  ~  newpp  git branch
+ linuxlite  ~  newpp  git: command not found
+ linuxlite  ~  newpp  * feature-a
+file.txt: command not found
+ linuxlite  ~  newpp    master
+
+Command 'master' not found, did you mean:
+
+  command 'master1' from deb pvm-examples
+  command 'paster' from deb python-pastescript
+
+Try: sudo apt install <deb name>
+
+ linuxlite  ~  newpp   linuxlite  ~  newpp  nano file.txt
+ linuxlite  ~  newpp  nano: command not found
+ linuxlite  ~  newpp   linuxlite  ~  newpp  git commit
+ linuxlite  ~  newpp  git: command not found
+ linuxlite  ~  newpp  On branch feature-a
+On: command not found
+ linuxlite  ~  newpp  Changes not staged for commit:
+Changes: command not found
+ linuxlite  ~  newpp  modified:   file.txt
+modified:: command not found
+ linuxlite  ~  newpp  
+ linuxlite  ~  newpp  no changes added to commit
+no: command not found
+ linuxlite  ~  newpp   linuxlite  ~  newpp  git add file.txt
+ linuxlite  ~  newpp  git: command not found
+ linuxlite  ~  newpp   linuxlite  ~  newpp  git commit
+ linuxlite  ~  newpp  git: command not found
+ linuxlite  ~  newpp  [feature-a 2604784] 4 feat a comm
+[feature-a: command not found
+ linuxlite  ~  newpp   1 file changed, 1 insertion(+)
+bash: syntax error near unexpected token `('
+ linuxlite  ~  newpp   linuxlite  ~  newpp  git log --oneline --graph --all
+ linuxlite  ~  newpp  git: command not found
+ linuxlite  ~  newpp  * 2604784 (HEAD -> feature-a) 4 feat a comm
+bash: syntax error near unexpected token `('
+ linuxlite  ~  newpp  * f6cdf1c (master) 3 comm
+bash: syntax error near unexpected token `('
+ linuxlite  ~  newpp  * c2bafe0 print sec com
+file.txt: command not found
+ linuxlite  ~  newpp  * 1178e0f Add file and print first comm
+file.txt: command not found
+ linuxlite  ~  newpp   linuxlite  ~  newpp  git checkout master
+ linuxlite  ~  newpp  git: command not found
+ linuxlite  ~  newpp  Switched to branch 'master'
+Switched: command not found
+ linuxlite  ~  newpp   linuxlite  ~  newpp  git branch feature-b
+ linuxlite  ~  newpp  git: command not found
+ linuxlite  ~  newpp   linuxlite  ~  newpp  git checkout feature-b
+ linuxlite  ~  newpp  git: command not found
+ linuxlite  ~  newpp  Switched to branch 'feature-b'
+Switched: command not found
+ linuxlite  ~  newpp   linuxlite  ~  newpp  nano file.txt
+ linuxlite  ~  newpp  nano: command not found
+ linuxlite  ~  newpp   linuxlite  ~  newpp  git add file.txt
+ linuxlite  ~  newpp  git: command not found
+ linuxlite  ~  newpp   linuxlite  ~  newpp  git commit
+ linuxlite  ~  newpp  git: command not found
+ linuxlite  ~  newpp  [feature-b 40e1603] feat b comm
+[feature-b: command not found
+ linuxlite  ~  newpp   1 file changed, 1 insertion(+)
+bash: syntax error near unexpected token `('
+ linuxlite  ~  newpp   linuxlite  ~  newpp  git branch
+ linuxlite  ~  newpp  git: command not found
+ linuxlite  ~  newpp    feature-a
+feature-a: command not found
+ linuxlite  ~  newpp  * feature-b
+file.txt: command not found
+ linuxlite  ~  newpp    master
+
+Command 'master' not found, did you mean:
+
+  command 'master1' from deb pvm-examples
+  command 'paster' from deb python-pastescript
+
+Try: sudo apt install <deb name>
+
+ linuxlite  ~  newpp   linuxlite  ~  newpp  git log --oneline --graph --all
+ linuxlite  ~  newpp  git: command not found
+ linuxlite  ~  newpp  * 40e1603 (HEAD -> feature-b) feat b comm
+bash: syntax error near unexpected token `('
+ linuxlite  ~  newpp  | * 2604784 (feature-a) 4 feat a comm
+bash: syntax error near unexpected token `|'
+ linuxlite  ~  newpp  |/  
+bash: syntax error near unexpected token `|'
+ linuxlite  ~  newpp  * f6cdf1c (master) 3 comm
+bash: syntax error near unexpected token `('
+ linuxlite  ~  newpp  * c2bafe0 print sec com
+file.txt: command not found
+ linuxlite  ~  newpp  * 1178e0f Add file and print first comm
+file.txt: command not found
+ linuxlite  ~  newpp   linuxlite  ~  newpp  nano file.txt
+ linuxlite  ~  newpp  nano: command not found
+ linuxlite  ~  newpp   linuxlite  ~  newpp  git add file.txt
+ linuxlite  ~  newpp  git: command not found
+ linuxlite  ~  newpp   linuxlite  ~  newpp  git commit
+ linuxlite  ~  newpp  git: command not found
+ linuxlite  ~  newpp  [feature-b 0c75893] 2 in b
+[feature-b: command not found
+ linuxlite  ~  newpp   1 file changed, 1 insertion(+)
+bash: syntax error near unexpected token `('
+ linuxlite  ~  newpp   linuxlite  ~  newpp  git merge feature-a
+ linuxlite  ~  newpp  git: command not found
+ linuxlite  ~  newpp  Auto-merging file.txt
+Auto-merging: command not found
+ linuxlite  ~  newpp  CONFLICT (content): Merge conflict in file.txt
+bash: syntax error near unexpected token `content'
+ linuxlite  ~  newpp  Automatic merge failed; fix conflicts and then commit the result.
+Automatic: command not found
+
+Command 'fix' not found, did you mean:
+
+  command 'gfix' from deb firebird3.0-utils
+  command 'flix' from deb epix
+  command 'fmix' from deb embassy-phylip
+  command 'fid' from deb id-utils
+  command 'fax' from deb efax
+  command 'fox' from deb objcryst-fox
+  command 'six' from deb gambc
+  command 'fim' from deb fim
+  command 'mix' from deb elixir
+  command 'fio' from deb fio
+  command 'efix' from deb efax
+  command 'fis' from deb redboot-tools
+
+Try: sudo apt install <deb name>
+
+ linuxlite  ~  newpp   linuxlite  ~  newpp  nano file.txt
+ linuxlite  ~  newpp  nano: command not found
+ linuxlite  ~  newpp   linuxlite  ~  newpp  git add file.txt
+ linuxlite  ~  newpp  git: command not found
+ linuxlite  ~  newpp   linuxlite  ~  newpp  git commit
+ linuxlite  ~  newpp  git: command not found
+ linuxlite  ~  newpp  [feature-b 25a701c] Merge branch 'feature-a' into feature-b
+[feature-b: command not found
+ linuxlite  ~  newpp   linuxlite  ~  newpp  git log --oneline --graph --all 
+ linuxlite  ~  newpp  git: command not found
+ linuxlite  ~  newpp  *   25a701c (HEAD -> feature-b) Merge branch 'feature-a' into feature-b
+bash: syntax error near unexpected token `('
+ linuxlite  ~  newpp  |\  
+bash: syntax error near unexpected token `|'
+ linuxlite  ~  newpp  | * 2604784 (feature-a) 4 feat a comm
+bash: syntax error near unexpected token `|'
+ linuxlite  ~  newpp  * | 0c75893 2 in b
+0c75893: command not found
+file.txt: command not found
+ linuxlite  ~  newpp  * | 40e1603 feat b comm
+file.txt: command not found
+40e1603: command not found
+ linuxlite  ~  newpp  |/  
+bash: syntax error near unexpected token `|'
+ linuxlite  ~  newpp  * f6cdf1c (master) 3 comm
+bash: syntax error near unexpected token `('
+ linuxlite  ~  newpp  * c2bafe0 print sec com
+file.txt: command not found
+ linuxlite  ~  newpp  * 1178e0f Add file and print first comm
+file.txt: command not found
+ linuxlite  ~  newpp   linuxlite  ~  newpp  
+ linuxlite  ~  newpp  : command not found
+ linuxlite  ~  newpp  git log --oneline --graph --all
+*   25a701c (HEAD -> feature-b) Merge branch 'feature-a' into feature-b
+|\  
+| * 2604784 (feature-a) 4 feat a comm
+* | 0c75893 2 in b
+* | 40e1603 feat b comm
+|/  
+* f6cdf1c (master) 3 comm
+* c2bafe0 print sec com
+* 1178e0f Add file and print first comm
+ linuxlite  ~  newpp  git remote add origin git@github.com:tonyzkk/homeW.git
+ linuxlite  ~  newpp  git push -u origin master
+The authenticity of host 'github.com (140.82.118.4)' can't be established.
+RSA key fingerprint is SHA256:nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8.
+Are you sure you want to continue connecting (yes/no)? 
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+ linuxlite  ~  newpp  git clone https://github.com/tonyzkk/homeW.git
+Cloning into 'homeW'...
+warning: You appear to have cloned an empty repository.
+ linuxlite  ~  newpp  git remote -v
+origin	git@github.com:tonyzkk/homeW.git (fetch)
+origin	git@github.com:tonyzkk/homeW.git (push)
+ linuxlite  ~  newpp  git init
+Reinitialized existing Git repository in /home/linuxlite/newpp/.git/
+ linuxlite  ~  newpp  git add README.md
+fatal: pathspec 'README.md' did not match any files
+ linuxlite  ~  newpp  git commit -m "f com"
+On branch feature-b
+nothing to commit, working tree clean
+ linuxlite  ~  newpp  git remote add origin https://github.com/tonyzkk/homeW.git
+fatal: remote origin already exists.
+ linuxlite  ~  newpp  git push -u origin master
+The authenticity of host 'github.com (140.82.118.4)' can't be established.
+RSA key fingerprint is SHA256:nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8.
+Are you sure you want to continue connecting (yes/no)? 
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+ linuxlite  ~  newpp  
